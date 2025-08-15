@@ -34,5 +34,6 @@ This project implements a movie script analysis pipeline using **LangChain**, **
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-script-analysis.git
-cd movie-script-analysis
+git clone https://github.com/SAswin2000/MovieRag.git
+cd MovieRag
+
